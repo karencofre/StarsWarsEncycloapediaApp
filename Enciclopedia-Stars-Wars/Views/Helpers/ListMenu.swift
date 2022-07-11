@@ -13,7 +13,7 @@ struct ListMenu: View {
             List {
                 NavigationLink("Listar Personajes", destination: ListView())
                 NavigationLink("Listar Peliculas", destination: MoviesListView())
-                Text("See more...")//cambiar por navigation link
+                Link("See my github", destination: URL(string: "https://github.com/karencofre")!)
             }
             .navigationTitle("App Menu")
     }
