@@ -11,7 +11,7 @@ import SwiftUI
 struct Enciclopedia_Stars_WarsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
