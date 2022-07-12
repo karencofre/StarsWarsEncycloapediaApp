@@ -99,4 +99,4 @@ func getMovies(){
 i want to refine my appdesign techniques, in this project i continued to work with the ui, also i want to add pagination to the app 
 ## Author
 
-- Website - [karen cofre](http://bittenrainbow.me)   
+- Website - [karen cofre](https://karencofre.tech)   
